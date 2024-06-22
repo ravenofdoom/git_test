@@ -1,1 +1,3 @@
 Hello Odin ! I am the first txt-file for git and github improvement !
+Used command
+git config --global core.editor "code --wait"
